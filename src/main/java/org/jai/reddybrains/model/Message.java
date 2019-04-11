@@ -11,6 +11,8 @@ public class Message {
     private Date created;
     private String author;
 
+    //Hello eeveryone
+
     public Message() {
     }
 
